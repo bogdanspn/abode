@@ -1,2 +1,4 @@
 marketingplatform.google.com
 analytics.google.com
+googletagmanager.com
+www.googletagmanager.com
