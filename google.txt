@@ -4,3 +4,4 @@ googletagmanager.com
 www.googletagmanager.com
 google-analytics.com
 clarity.ms
+account.adobe.com
